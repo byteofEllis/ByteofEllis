@@ -1,16 +1,51 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**byteofEllis/ByteofEllis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 动态欢迎图 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" width="240" />
+</picture>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- 动态签名 -->
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=3F3D56&center=true&vCenter=true&width=435&lines=世界大同;C%2B%2B+%2F+Linux+%2F+Embedded)
+
+<br/>
+
+# 👋 Hi, I'm **EllisBlackhole**
+### ✨ *说过的话 美丽的夏 都过完了*
+
+<!-- emoji -->
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dove.png" width="40" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Nature/Sunflower.png" width="40" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Glowing%20Star.png" width="40" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="40" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ringed%20Planet.png" width="40" />
+
+---
+
+<!-- 技能图标 -->
+### 🛠 Skills
+[![My Skills](https://skillicons.dev/icons?i=cpp,linux,vim,git,github,docker&theme=light)](https://skillicons.dev)
+
+---
+
+<!-- GitHub Stats -->
+### 📈 GitHub Stats
+![EllisBlackhole's GitHub stats](https://github-readme-stats.vercel.app/api?username=EllisBlackhole&show_icons=true&theme=default)
+
+---
+
+<!-- GitHub 活动图 -->
+### 🔥 GitHub 活跃图
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=EllisBlackhole&theme=tokyo-night" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=EllisBlackhole&theme=github" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EllisBlackhole&theme=github" />
+</picture>
+
+---
+
+</div>
