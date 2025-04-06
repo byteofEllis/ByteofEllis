@@ -14,7 +14,7 @@
 
 <br/>
 
-# 👋 Hi, I'm **EllisBlackhole**
+# 👋 Hi, I'm **EllisLeung**
 ### ✨ *说过的话 美丽的夏 都过完了*
 
 <!-- emoji -->
@@ -35,16 +35,6 @@
 <!-- GitHub Stats -->
 ### 📈 GitHub Stats
 ![EllisBlackhole's GitHub stats](https://github-readme-stats.vercel.app/api?username=EllisBlackhole&show_icons=true&theme=default)
-
----
-
-<!-- GitHub 活动图 -->
-### 🔥 GitHub 活跃图
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=EllisBlackhole&theme=tokyo-night" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=EllisBlackhole&theme=github" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EllisBlackhole&theme=github" />
-</picture>
 
 ---
 
