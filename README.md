@@ -10,7 +10,7 @@
 <br/>
 
 <!-- 动态签名 -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=3F3D56&center=true&vCenter=true&width=435&lines=世界大同;C%2B%2B+%2F+Linux+%2F+Embedded)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=3F3D56&center=true&vCenter=true&width=435&lines=世界大同;C%2B%2B+%2F+Linux+%2F+Embedded+%2F+Python)
 
 <br/>
 
@@ -28,14 +28,22 @@
 
 <!-- 技能图标 -->
 ### 🛠 Skills
-[![My Skills](https://skillicons.dev/icons?i=cpp,linux,vim,git,github,docker&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,linux,git,github&theme=light)](https://skillicons.dev)
 
 ---
 
 <!-- GitHub Stats -->
 ### 📈 GitHub Stats
-![EllisBlackhole's GitHub stats](https://github-readme-stats.vercel.app/api?username=EllisBlackhole&show_icons=true&theme=default)
+![EllisBlackhole's GitHub stats](https://github-readme-stats.vercel.app/api?username=byteofEllis&show_icons=true&theme=default)
 
 ---
+
+<!-- GitHub 活动图 -->
+### 🔥 GitHub 活跃图
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=byteofEllis&theme=tokyo-night" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=byteofEllis&theme=github" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=byteofEllis&theme=github" />
+</picture>
 
 </div>
