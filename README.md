@@ -2,9 +2,10 @@
 
 <!-- 动态欢迎图 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/byteofEllis/ByteofEllis/khalil.jpg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" width="240" />
 </picture>
-<br/>
 
 <!-- 动态签名 -->
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=3F3D56&center=true&vCenter=true&width=435&lines=世界大同;C%2B%2B+%2F+Linux+%2F+Embedded+%2F+Python)
@@ -20,6 +21,8 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ringed%20Planet.png" width="40" />
 ✨ 🌻
 ---
+
+<br/>
 
 <!-- 技能图标 -->
 ### 🛠 Skills
